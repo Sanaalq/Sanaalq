@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Sanaalq banner" width="100%" />
+# <img src="profile-banner.svg" alt="Sanaalq banner" width="100%" />
 
 <p align="center">
   🔒 DevSecOps Engineer | ☁️ Cloud Engineer | 🐧 Linux &amp; Automation | 🛡️ Security Enthusiast
