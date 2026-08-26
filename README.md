@@ -9,8 +9,6 @@
   <a href="mailto:anasaqila333@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
-> ⚠️ Ganti badge Portfolio di atas begitu link-nya sudah ada — lihat bagian **Cara Pasang** di bawah untuk tahu baris mana yang perlu diedit.
-
 ## Tech Stack
 
 <p align="center">
